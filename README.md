@@ -2,7 +2,6 @@
 
 DocuChat AI is a RAG-powered application that allows users to upload PDF documents and interact with them using natural language queries. The app extracts text from PDFs, processes it into embeddings, and enables users to ask questions about the content using AI-powered responses.
 
-[[Huggingface Spaces Demo]](https://huggingface.co/spaces/tejacherukuri/DocuChat)
 
 ## Features
 
